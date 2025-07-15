@@ -1,0 +1,149 @@
+﻿Entidad_federativa,Municipio_o_Delegacion,Equipo_automaticoO3,Equipo_automaticoCO,Equipo_automaticoSO2,Equipo_automaticoNOx,Equipo_automaticoPM10,Equipo_automaticoPM2_5,Equipo_automaticoPM10/PM2_5,Equipo_automaticoPM10M,Equipo_automaticoPM2_5M,Equipo_manualO3,Equipo_manualPM10M,Equipo_manualPM2_5M,MixtoO3,MixtoCO,MixtoSO2,MixtoNOx,MixtoPM10,MixtoPM2_5,MixtoPM10/PM2_5,MixtoPM10M,MixtoPM2_5M,Entidad
+Aguascalientes,Aguascalientes,4,4,4,4,4,3,,,,1,,,,,,,,,,,,Aguascalientes
+Baja California,Ensenada,,,,,,,,,,1,,,1,1,1,1,,1,,1,,Baja California
+Baja California,Mexicali,1,1,1,1,1,1,,,,1,1,,3,3,2,3,,2,,3,,Baja California
+Baja California,Tecate,,,,,,,,,,1,,,1,1,1,,,,,1,,Baja California
+Baja California,Tijuana,,,,,,,,,,1,1,,3,2,2,2,1,2,,3,,Baja California
+Campeche,Campeche,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Campeche
+Coahuila,Monclova,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Coahuila
+Coahuila,Piedras Negras,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Coahuila
+Coahuila,Saltillo,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Coahuila
+Coahuila,Torreón,1,1,1,1,1,1,,,,1,3,,,,,,,,,,,Coahuila
+Colima,Villa de Álvarez,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Colima
+Chiapas,Tuxtla Gutiérrez,1,,,,,1,,,,1,,,,,,,,,,,,Chiapas
+Chihuahua,Chihuahua,3,3,3,3,3,1,,,,1,,,,,,,,,,,,Chihuahua
+Chihuahua,Juárez,1,1,1,1,1,1,,,,1,7,,3,3,,,,,,4,,Chihuahua
+Chihuahua,Ojinaga,,,,,,,,,,1,3,,,,,,,,,,,Chihuahua
+Ciudad de México,Azcapotzalco,1,1,1,1,1,1,1,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Coyoacán,1,1,1,1,,1,,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Cuajimalpa de Morelos,1,1,1,1,1,,,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Gustavo A. Madero,1,,,1,1,1,,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Iztacalco,1,1,1,1,1,,,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Iztapalapa,1,1,1,,,1,,,,1,,,1,1,1,1,1,1,1,1,1,Ciudad de México
+Ciudad de México,Milpa Alta,1,1,1,1,,,1,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Álvaro Obregón,,,,,,,,,,1,,,1,1,1,1,1,1,1,1,1,Ciudad de México
+Ciudad de México,Tláhuac,1,1,1,1,1,,,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Tlalpan,2,1,1,2,1,2,1,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Xochimilco,1,1,1,1,,1,,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Benito Juárez,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Cuauhtémoc,1,1,1,1,1,1,1,,,1,,,,,,,,,,,,Ciudad de México
+Ciudad de México,Miguel Hidalgo,2,2,2,2,2,2,1,,,1,1,,,,,,,,,,,Ciudad de México
+Ciudad de México,Venustiano Carranza,,,,,,,,,,1,,,1,1,1,1,1,1,1,1,1,Ciudad de México
+Durango,Durango,3,3,2,3,3,2,,,,1,3,,,,,,,,,,,Durango
+Durango,Gómez Palacio,1,1,1,1,2,,,,,1,1,,,,,,,,,,,Durango
+Durango,Lerdo,2,1,2,1,2,1,,,,1,,,,,,,,,,,,Durango
+Guanajuato,Abasolo,,,,,,1,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,Acámbaro,,,,,,,,,,1,1,,,,,,,,,,,Guanajuato
+Guanajuato,San Miguel de Allende,,,,,,1,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,Celaya,3,2,2,3,3,2,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,Cortazar,,,,,,,,,,1,,1,,,,,,,,,,Guanajuato
+Guanajuato,Guanajuato,,,,,,1,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,Irapuato,3,3,3,3,3,2,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,León,3,1,3,2,3,2,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,Moroleón,,,,,,,,,,1,1,,,,,,,,,,,Guanajuato
+Guanajuato,Purísima del Rincón,1,,,,1,,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,Salamanca,3,3,3,2,3,2,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,San Francisco del Rincón,,,,,,,,,,1,,1,,,,,,,,,,Guanajuato
+Guanajuato,San José Iturbide,,,,,,,,,,1,1,,,,,,,,,,,Guanajuato
+Guanajuato,San Luis de La Paz,,,,,,1,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,Santa Cruz de Juventino Rosas,,,,,,,,,,1,,1,,,,,,,,,,Guanajuato
+Guanajuato,Silao,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Guanajuato
+Guanajuato,Villagrán,,,,,,,,,,1,,1,,,,,,,,,,Guanajuato
+Guerrero,Acapulco de Juárez,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Guerrero
+Hidalgo,Atitalaquia,,,,,,,,,,1,,,1,1,1,1,1,,,,1,Hidalgo
+Hidalgo,Atotonilco de Tula,,,,,,,,,,1,,,1,1,1,1,1,,,1,1,Hidalgo
+Hidalgo,Huichapan,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Hidalgo
+Hidalgo,Lolotla,,,,,,,,,,1,,1,,,,,,,,,,Hidalgo
+Hidalgo,Pachuca de Soto,2,2,2,2,2,2,,,,1,2,1,,,,,,,,,,Hidalgo
+Hidalgo,Tepeapulco,1,1,1,1,1,,,,,1,,,,,,,,,,,,Hidalgo
+Hidalgo,Tepeji del Río de Ocampo,,,,,,,,,,1,,,1,1,1,1,1,,,,1,Hidalgo
+Hidalgo,Tizayuca,,,,,,,,,,1,,,1,1,1,1,1,,,1,1,Hidalgo
+Hidalgo,Tlaxcoapan,,,,,,,,,,1,1,,,,,,,,,,,Hidalgo
+Hidalgo,Tula de Allende,,,,,,,,,,1,,,1,1,1,1,1,,,1,1,Hidalgo
+Hidalgo,Tulancingo de Bravo,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Hidalgo
+Hidalgo,Zapotlán de Juárez,,,,,,,,,,1,1,,,,,,,,,,,Hidalgo
+Jalisco,Guadalajara,3,3,3,3,3,2,,,,1,,,,,,,,,,,,Jalisco
+Jalisco,El Salto,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Jalisco
+Jalisco,Tlajomulco de Zúñiga,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Jalisco
+Jalisco,San Pedro Tlaquepaque,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Jalisco
+Jalisco,Tonalá,1,1,1,1,1,,,,,1,,,,,,,,,,,,Jalisco
+Jalisco,Zapopan,3,3,3,3,3,2,,,,1,,,,,,,,,,,,Jalisco
+México,Acolman,1,1,1,1,1,,,,,1,,,,,,,,,,,,Estado de México
+México,Almoloya de Juárez,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Estado de México
+México,Atizapán de Zaragoza,1,1,1,1,1,,,,,1,,,,,,,,,,,,Estado de México
+México,Calimaya,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Estado de México
+México,Coacalco de Berriozábal,1,1,1,1,1,,,,,1,,,,,,,,,,,,Estado de México
+México,Cuautitlán,1,,1,1,1,,,,,1,,,,,,,,,,,,Estado de México
+México,Chalco,1,1,1,1,1,,,,,1,,,,,,,,,,,,Estado de México
+México,Ecatepec de Morelos,1,1,1,1,,,,,,1,,,2,2,2,2,2,2,2,1,2,Estado de México
+México,Metepec,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Estado de México
+México,Naucalpan de Juárez,1,1,1,1,1,,,,,1,,,,,,,,,,,,Estado de México
+México,Nezahualcóyotl,1,1,1,1,,1,,,,1,,,1,1,1,1,,1,,1,,Estado de México
+México,Ocoyoacac,1,1,1,,1,1,,,,1,,,,,,,,,,,,Estado de México
+México,San Mateo Atenco,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Estado de México
+México,Texcoco,1,1,1,1,,1,,,,1,,,,,,,,,,,,Estado de México
+México,Tlalnepantla de Baz,,,,,,,,,,1,,,2,2,2,1,1,1,1,2,1,Estado de México
+México,Toluca,4,4,4,4,4,4,,,,1,,,,,,,,,,,,Estado de México
+México,Tultitlán,1,1,1,1,1,,,,,1,,,,,,,,,,,,Estado de México
+México,Xonacatlán,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Estado de México
+Michoacán,Morelia,3,3,2,3,2,3,,,,1,,,,,,,,,,,,Michoacán
+Morelos,Cuautla,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Morelos
+Morelos,Cuernavaca,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Morelos
+Morelos,Ocuituco,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Morelos
+Morelos,Zacatepec,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Morelos
+Nayarit,Tepic,2,2,2,2,2,2,,,,1,,,,,,,,,,,,Nayarit
+Nuevo León,Apodaca,,1,,1,1,1,,,,1,,,,,,,,,,,,Nuevo León
+Nuevo León,Cadereyta Jiménez,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Nuevo León
+Nuevo León,García,,1,,1,1,1,,1,1,1,,,,,,,,,,,,Nuevo León
+Nuevo León,San Pedro Garza García,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Nuevo León
+Nuevo León,General Escobedo,,1,,,1,1,,,,1,,,,,,,,,,,,Nuevo León
+Nuevo León,Guadalupe,1,1,1,,1,1,,,,1,,,,,,,,,,,,Nuevo León
+Nuevo León,Juárez,,1,,1,1,1,,1,1,1,,,,,,,,,,,,Nuevo León
+Nuevo León,Monterrey,3,3,3,1,3,3,,,,1,,,,,,,,,,,,Nuevo León
+Nuevo León,Pesquería,,1,,1,1,1,,1,1,1,,,,,,,,,,,,Nuevo León
+Nuevo León,San Nicolás de los Garza,2,2,2,2,2,2,,,,1,,,,,,,,,,,,Nuevo León
+Nuevo León,Santa Catarina,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Nuevo León
+Oaxaca,Oaxaca de Juárez,2,2,2,2,2,2,,,,1,,,,,,,,,,,,Oaxaca
+Puebla,Coronango,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Puebla
+Puebla,Puebla,4,4,4,4,4,4,,,,1,,,,,,,,,,,,Puebla
+Querétaro,Corregidora,2,2,2,2,,2,,,,1,,,,,,,,,,,,Querétaro
+Querétaro,El Marqués,1,1,1,1,,1,,,,1,,,,,,,,,,,,Querétaro
+Querétaro,Querétaro,4,4,4,4,1,3,,,,1,,,,,,,,,,,,Querétaro
+Querétaro,San Juan del Río,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Querétaro
+San Luis Potosí,San Luis Potosí,2,2,3,3,2,1,,,,1,,,,,,,,,,,,San Luis Potosí
+San Luis Potosí,Soledad de Graciano Sánchez,1,1,1,1,,,,,,1,,,,,,,,,,,,San Luis Potosí
+Sinaloa,Ahome,1,1,1,1,1,1,,,,1,1,,,,,,,,,,,Sinaloa
+Sinaloa,Culiacán,1,1,1,1,1,1,,,,1,1,,,,,,,,,,,Sinaloa
+Sinaloa,Guasave,,,,,,,,,,1,1,,,,,,,,,,,Sinaloa
+Sinaloa,Mazatlán,1,1,1,1,1,1,,,,1,1,,,,,,,,,,,Sinaloa
+Sinaloa,Salvador Alvarado,,,,,,,,,,1,1,,,,,,,,,,,Sinaloa
+Sonora,Agua Prieta,,,,,,,,,,1,,,1,1,1,1,1,1,,1,,Sonora
+Sonora,Cajeme,,,,,,,,,,1,,,1,1,1,1,1,1,,1,,Sonora
+Sonora,Hermosillo,,,,,,,,,,1,,,1,1,1,1,1,1,,1,,Sonora
+Sonora,Nogales,,,,,1,,,,,1,,,,,,,,,,,,Sonora
+Sonora,San Luis Río Colorado,1,,,,,,,,,1,,,,,,,,,,,,Sonora
+Tabasco,Balancán,,,,,,,,,,1,1,,,,,,,,,,,Tabasco
+Tabasco,Centla,,,,,,,,,,1,1,,,,,,,,,,,Tabasco
+Tabasco,Centro,1,1,1,,1,,,1,,1,2,,1,1,1,,1,,,1,,Tabasco
+Tabasco,Comalcalco,,,,,,,,,,1,1,,,,,,,,,,,Tabasco
+Tabasco,Cunduacán,,,,,,,,,,1,1,,,,,,,,,,,Tabasco
+Tabasco,Huimanguillo,,,,,,,,,,1,1,,,,,,,,,,,Tabasco
+Tabasco,Macuspana,,,,,,,,,,1,1,,,,,,,,,,,Tabasco
+Tabasco,Paraíso,,,,,,,,,,1,1,,,,,,,,,,,Tabasco
+Tamaulipas,Altamira,,,,,,,,,,1,1,,,,,,,,,,,Tamaulipas
+Tamaulipas,Ciudad Madero,,,,,,,,,,1,1,,,,,,,,,,,Tamaulipas
+Tamaulipas,El Mante,,,,,,,,,,1,2,,,,,,,,,,,Tamaulipas
+Tamaulipas,Matamoros,,,,,,,,,,1,4,,,,,,,,,,,Tamaulipas
+Tamaulipas,Nuevo Laredo,,,,,,,,,,1,4,,,,,,,,,,,Tamaulipas
+Tamaulipas,Reynosa,,,,,,,,,,1,4,,,,,,,,,,,Tamaulipas
+Tamaulipas,Tampico,,,,,,,,,,1,1,,,,,,,,,,,Tamaulipas
+Tamaulipas,Victoria,,,,,,,,,,1,2,,,,,,,,,,,Tamaulipas
+Tlaxcala,Apizaco,1,1,1,1,1,2,,,,1,,,,,,,,,,,,Tlaxcala
+Tlaxcala,Cuapiaxtla,,,,,,1,,,,1,,,,,,,,,,,,Tlaxcala
+Tlaxcala,Tlaxcala,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Tlaxcala
+Veracruz,Xalapa,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Veracruz
+Veracruz,Minatitlán,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Veracruz
+Veracruz,Poza Rica de Hidalgo,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Veracruz
+Veracruz,Veracruz,,1,,1,1,1,,1,1,1,,,,,,,,,,,,Veracruz
+Yucatán,Mérida,1,1,1,1,,1,,,,1,,,,,,,,,,,,Yucatán
+Zacatecas,Zacatecas,1,1,1,1,1,1,,,,1,,,,,,,,,,,,Zacatecas
